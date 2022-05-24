@@ -1,0 +1,2 @@
+Pacotes
+- Nodemon
